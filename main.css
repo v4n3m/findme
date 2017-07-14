@@ -14,3 +14,15 @@
 	position: fixed;
 	top: -1000px;
 }
+
+.bloque{
+	display: inline-block;
+}
+
+img {
+	margin-bottom: 30px;
+}
+
+ul{
+	margin-left: -30px;
+}
